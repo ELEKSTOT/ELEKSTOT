@@ -397,35 +397,35 @@ video {
 
 @font-face {
     font-family: ranade;
-    src: url(/sites/simposioObq23/fonts/Ranade-Medium.otf);
+    src: url(sites/simposioObq23/fonts/Ranade-Medium.otf);
     font-weight: 500;
     font-style: normal
 }
 
 @font-face {
     font-family: ranade;
-    src: url(/sites/simposioObq23/fonts/Ranade-Thin.otf);
+    src: url(sites/simposioObq23/fonts/Ranade-Thin.otf);
     font-weight: 100;
     font-style: normal
 }
 
 @font-face {
     font-family: ranade;
-    src: url(/sites/simposioObq23/fonts/Ranade-Regular.otf);
+    src: url(sites/simposioObq23/fonts/Ranade-Regular.otf);
     font-weight: 400;
     font-style: normal
 }
 
 @font-face {
     font-family: ranade;
-    src: url(/sites/simposioObq23/fonts/Ranade-Bold.otf);
+    src: url(sites/simposioObq23/fonts/Ranade-Bold.otf);
     font-weight: 700;
     font-style: normal
 }
 
 @font-face {
     font-family: ranade;
-    src: url(/sites/simposioObq23/fonts/Ranade-Light.otf);
+    src: url(sites/simposioObq23/fonts/Ranade-Light.otf);
     font-weight: 300;
     font-style: normal
 }
@@ -446,7 +446,7 @@ ul {
 
 @font-face {
     font-family: himagsikan;
-    src: url(/sites/simposioOnc23/fonts/himagsikan.otf)
+    src: url(sites/simposioOnc23/fonts/himagsikan.otf)
 }
 
 .simposio_onc_main_container {
@@ -458,7 +458,7 @@ ul {
     background-size: cover;
     padding-top: 3rem;
     min-height: calc(100vh - 3rem);
-    background-image: url(/sites/simposioOnc23/assets/BG.png)
+    background-image: url(sites/simposioOnc23/assets/BG.png)
 }
 
 .simposio_onc_main_container .h1,
@@ -502,7 +502,7 @@ a {
     background-color: rgb(251 242 15/var(--tw-bg-opacity));
     background-size: cover;
     padding-top: 3rem;
-    background-image: url(/sites/simposioObq23/texture_background.png);
+    background-image: url(sites/simposioObq23/texture_background.png);
     background-size: 25%;
     background-repeat: repeat;
     min-height: calc(100vh - 3rem)
@@ -14202,7 +14202,7 @@ a {
 
 .SessionTitleBG .h2 span,
 .SessionTitleBG h2 span {
-    background: url(/sites/elekstot/background/bg_quem_somos.png);
+    background: url(sites/elekstot/background/bg_quem_somos.png);
     background-repeat: no-repeat;
     background-size: cover;
     font-size: 3rem;
